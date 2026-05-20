@@ -1,4 +1,5 @@
 # Snake Game in C++
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/c5e67938-c6e3-4711-b39b-b0628d237803" />
 
 This repository contains a simple Snake game project written in C++ with two playable versions:
 
